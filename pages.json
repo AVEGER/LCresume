@@ -1,0 +1,41 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "李金城的简历"
+			}
+		}
+	    ,{
+            "path" : "resumecomponents/FirstMood/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }           
+        }
+        ,{
+            "path" : "pages/mianpage/index",
+            "style" :                                                                                    
+            {
+				"navigationBarTitleText": "李金城的简历",
+                "enablePullDownRefresh": false
+            }         
+        }
+        ,{
+            "path" : "resumecomponents/IntroMaster/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "LC",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

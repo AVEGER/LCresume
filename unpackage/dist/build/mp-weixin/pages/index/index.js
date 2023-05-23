@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),n={data:()=>({}),components:{enterMood:()=>"../../components/EnterBtn/index.js"},onLoad(){},methods:{}};if(!Array){e.resolveComponent("enterMood")()}const o=e._export_sfc(n,[["render",function(n,o,t,r,s,a){return{a:e.p({btnwidth:"500rpx",text:"点击进入",url:"/pages/mianpage/index"})}}]]);wx.createPage(o);

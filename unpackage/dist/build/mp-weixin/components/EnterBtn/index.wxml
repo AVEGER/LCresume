@@ -1,0 +1,1 @@
+<view class="btn_box data-v-fa17c7c7" style="{{'width:' + c}}"><button class="container data-v-fa17c7c7" bindtap="{{b}}">{{a}}</button></view>

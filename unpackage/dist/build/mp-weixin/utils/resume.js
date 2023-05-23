@@ -1,0 +1,1 @@
+"use strict";const e=require("../resumeData.js");exports.initAge=()=>{let t=new Date,r=t.getFullYear(),a=t.getMonth()+1,n=t.getDate(),o=e.baseInfo.age;return a>4||n>4?r-o:r-(o+1)},exports.initWorkYear=()=>{let t=(new Date).getTime(),r=e.baseInfo.startwork,a=(t-new Date(r).getTime())/31536e6;return Math.round(Number(a).toFixed(1))};

@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../resumeData.js"),t=require("../../../common/vendor.js"),r={name:"IntroSkill",data:()=>({list:e.skillList}),onShareAppMessage(){}};const s=t._export_sfc(r,[["render",function(e,r,s,a,n,o){return{a:t.f(n.list,((e,r,s)=>({a:t.t(e),b:r})))}}],["__scopeId","data-v-97a2c9be"]]);wx.createComponent(s);

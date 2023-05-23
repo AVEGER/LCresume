@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "resumecomponents/FirstMood/index",
+    "pages/mianpage/index",
+    "resumecomponents/IntroMaster/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "LC",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

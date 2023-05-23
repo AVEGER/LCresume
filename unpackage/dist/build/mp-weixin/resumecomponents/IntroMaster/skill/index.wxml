@@ -1,0 +1,1 @@
+<view class="container data-v-97a2c9be"><view class="main data-v-97a2c9be"><text wx:for="{{a}}" wx:for-item="item" wx:key="b" class="data-v-97a2c9be"><text class="list_zero data-v-97a2c9be">-</text>{{item.a}}</text></view></view>

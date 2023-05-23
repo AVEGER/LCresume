@@ -1,0 +1,1 @@
+"use strict";const t=require("../../common/vendor.js"),e={name:"EnterBtn",props:{text:"",url:"",btnwidth:"500rpx"},methods:{topage(){t.wx$1.navigateTo({url:this.url.toLowerCase()})}}};const o=t._export_sfc(e,[["render",function(e,o,r,n,a,c){return{a:t.t(r.text),b:t.o(((...t)=>c.topage&&c.topage(...t))),c:r.btnwidth}}],["__scopeId","data-v-fa17c7c7"]]);wx.createComponent(o);

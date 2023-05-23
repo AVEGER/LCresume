@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "李金城的简历",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "first-mood": "../../resumecomponents/FirstMood/index",
+    "intro-master": "../../resumecomponents/IntroMaster/index",
+    "zresume": "../../resumecomponents/Zresume/index"
+  }
+}

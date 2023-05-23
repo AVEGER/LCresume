@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "custom-bottom": "../../components/CustomTabbar/index",
+    "intro-basic": "./basic/index",
+    "intro-contract": "./contract/index",
+    "intro-project": "./project/index",
+    "intro-skill": "./skill/index",
+    "intro-work": "./work/index"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "李金城的简历",
+  "usingComponents": {
+    "enter-mood": "../../components/EnterBtn/index"
+  }
+}

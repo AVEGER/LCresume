@@ -1,0 +1,1 @@
+<view class="mainShow_box"><intro-master wx:if="{{a}}" u-i="a0f4632e-0" bind:__l="__l"/><zresume wx:else u-i="a0f4632e-1" bind:__l="__l"/></view>

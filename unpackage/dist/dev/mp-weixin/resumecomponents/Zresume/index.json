@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom-bottom": "../../components/CustomTabbar/index",
+    "zresume-main": "./main/index",
+    "zresume-project": "./project/index"
+  }
+}
