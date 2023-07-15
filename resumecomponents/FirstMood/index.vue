@@ -28,6 +28,7 @@
 
 		<div class="Top_content_box com_molude_box">
 			<div class="comm_bottom_border fcolor999">工作经历</div>
+			<div>比一比有限公司<text class="fcolor999">2022.5 -- 至今</text></div>
 			<div>顺势腾飞有限公司<text class="fcolor999">2022.2 -- 2023.4</text></div>
 			<div>部队某旅<text class="fcolor999">2019.9 -- 2021.12</text></div>
 		</div>
