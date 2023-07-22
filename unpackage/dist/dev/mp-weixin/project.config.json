@@ -19,7 +19,7 @@
     "condition": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.32.0",
+  "libVersion": "3.0.0",
   "appid": "wx7b4b51a2cb9ac4fb",
   "projectname": "LCresume",
   "condition": {},

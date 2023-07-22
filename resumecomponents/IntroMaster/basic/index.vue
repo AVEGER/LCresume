@@ -2,8 +2,8 @@
     <div class="container">
         <div class="main">
             <image src="@/static/resumeMan.png"/>
-            <p class="name">李金城</p>
-            <p class="subtitle">运维工程师</p>
+            <p class="name">{{baseinfo.name}}</p>
+            <p class="subtitle">{{baseinfo.post}}</p>
         </div>
         <div class="base">
             <div class="box">

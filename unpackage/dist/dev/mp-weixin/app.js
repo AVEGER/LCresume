@@ -25,7 +25,7 @@ const _sfc_main = {
     }
   }
 };
-const App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "S:/LJCProgarm/LCresume/App.vue"]]);
+const App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "S:/LJCProgarm/Github/LCresume/App.vue"]]);
 function createApp() {
   const app = common_vendor.createSSRApp(App);
   app.config.globalProperties.$getresume = function(arg) {

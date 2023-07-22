@@ -23,17 +23,19 @@ const _sfc_main = {
 };
 function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
   return {
-    a: common_vendor.t($data.baseinfo.age),
-    b: common_vendor.t($data.baseinfo.schoolMajor),
-    c: common_vendor.t($data.baseinfo.startwork),
-    d: common_vendor.f($data.skillul, (item, index, i0) => {
+    a: common_vendor.t($data.baseinfo.name),
+    b: common_vendor.t($data.baseinfo.post),
+    c: common_vendor.t($data.baseinfo.age),
+    d: common_vendor.t($data.baseinfo.schoolMajor),
+    e: common_vendor.t($data.baseinfo.startwork),
+    f: common_vendor.f($data.skillul, (item, index, i0) => {
       return {
         a: common_vendor.t(index + 1),
         b: common_vendor.t(item),
         c: index
       };
     }),
-    e: common_vendor.f($data.worklist, (item, index, i0) => {
+    g: common_vendor.f($data.worklist, (item, index, i0) => {
       return {
         a: common_vendor.t(item.companyName),
         b: common_vendor.t(item.job),
@@ -47,8 +49,8 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
         e: index
       };
     }),
-    f: common_vendor.t($data.introduce)
+    h: common_vendor.t($data.introduce)
   };
 }
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-932c6f7a"], ["__file", "S:/LJCProgarm/LCresume/resumecomponents/Zresume/main/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-932c6f7a"], ["__file", "S:/LJCProgarm/Github/LCresume/resumecomponents/Zresume/main/index.vue"]]);
 wx.createComponent(Component);

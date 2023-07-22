@@ -1,7 +1,7 @@
 "use strict";
 const resumeData = require("../resumeData.js");
 const initAge = () => {
-  let date = new Date();
+  let date = /* @__PURE__ */ new Date();
   let year = date.getFullYear();
   let month = date.getMonth() + 1;
   let day = date.getDate();
@@ -17,7 +17,7 @@ const initAge = () => {
   }
 };
 const initWorkYear = () => {
-  let now = new Date().getTime();
+  let now = (/* @__PURE__ */ new Date()).getTime();
   let startwork = resumeData.baseInfo.startwork;
   let workDay = new Date(startwork).getTime();
   let years = (now - workDay) / (1e3 * 60 * 60 * 24 * 365);

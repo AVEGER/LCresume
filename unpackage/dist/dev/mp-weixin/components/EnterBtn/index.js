@@ -22,5 +22,5 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
     c: $props.btnwidth
   };
 }
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-e3bd72d2"], ["__file", "S:/LJCProgarm/LCresume/components/EnterBtn/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-e3bd72d2"], ["__file", "S:/LJCProgarm/Github/LCresume/components/EnterBtn/index.vue"]]);
 wx.createComponent(Component);

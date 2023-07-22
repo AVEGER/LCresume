@@ -1,1 +1,1 @@
-<view style=""><zresume-main wx:if="{{a}}" u-i="0f277de1-0" bind:__l="__l"/><zresume-project wx:else u-i="0f277de1-1" bind:__l="__l"/></view><custom-bottom wx:if="{{c}}" bindchangIndex="{{b}}" u-i="0f277de1-2" bind:__l="__l" u-p="{{c}}"></custom-bottom>
+<view style=""><zresume-main wx:if="{{a}}" u-i="53a3d3d5-0" bind:__l="__l"/><zresume-project wx:else u-i="53a3d3d5-1" bind:__l="__l"/></view><custom-bottom wx:if="{{c}}" bindchangIndex="{{b}}" u-i="53a3d3d5-2" bind:__l="__l" u-p="{{c}}"></custom-bottom>

@@ -4,9 +4,9 @@
 		<div class='head'>
 			<image src='https://i.imgtg.com/2023/05/22/OaB15v.jpg' style='position: relation;width:100%'></image>
 			<div class="head_img_box">
-				<text style='font-size:180%;font-weight: bold;text-align: center;padding: 5% 0;'>李金城</text>
+				<text style='font-size:180%;font-weight: bold;text-align: center;padding: 5% 0;'>{{baseinfo.name}}</text>
 				<text
-					style='font-size:150%;padding:5% 0;border-top:2px solid #00A982;border-bottom:2px solid #00A982;margin:3% 0;text-align: center'>运维工程师</text>
+					style='font-size:150%;padding:5% 0;border-top:2px solid #00A982;border-bottom:2px solid #00A982;margin:3% 0;text-align: center'>{{baseinfo.post}}</text>
 				<div>
 					<div class='head-info'>
 						<text>男 / {{baseinfo.age}}</text>

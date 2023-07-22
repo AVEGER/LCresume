@@ -21,5 +21,5 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
     })
   };
 }
-const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-29c11ba1"], ["__file", "S:/LJCProgarm/LCresume/resumecomponents/IntroMaster/skill/index.vue"]]);
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-29c11ba1"], ["__file", "S:/LJCProgarm/Github/LCresume/resumecomponents/IntroMaster/skill/index.vue"]]);
 wx.createComponent(Component);

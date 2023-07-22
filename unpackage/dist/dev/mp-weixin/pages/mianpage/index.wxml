@@ -1,1 +1,1 @@
-<view class="mainShow_box"><first-mood wx:if="{{a}}" u-i="a0f4632e-0" bind:__l="__l"/><intro-master wx:elif="{{b}}" u-i="a0f4632e-1" bind:__l="__l"/><zresume wx:else u-i="a0f4632e-2" bind:__l="__l"/></view>
+<view class="mainShow_box"><first-mood wx:if="{{a}}" u-i="a0397546-0" bind:__l="__l"/><intro-master wx:elif="{{b}}" u-i="a0397546-1" bind:__l="__l"/><zresume wx:else u-i="a0397546-2" bind:__l="__l"/></view>
